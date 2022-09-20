@@ -1,0 +1,3 @@
+#google search inurl:chainparams.cpp site:github.com
+#maybe just get https://sourcegraph.com/search?q=context:global+file:chainparams.cpp+count:2000+fork:yes+file:has.content%28CMainParams%29&patternType=standard
+...
