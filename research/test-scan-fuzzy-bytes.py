@@ -1,4 +1,5 @@
 '''do whatever you wish with this but do not run this program it is just for documentation'''
+#wget http://addresses.loyce.club/blockchair_bitcoin_addresses_and_balance_LATEST.tsv.gz
 import bit, re, os, glob
 recurse=glob.glob('/Users/em/*dat*')
 pkeyre=re.compile(b'\x01\x04\x20([\x00-\xff]{32})') # this does Not find all the posisble keys, in fact any key within the curve but not at the maximum length will have padding with zeros and the start of the regex (\x20) will vary, also i shouldn't match 32 bytes... i have a solution but this is just the Standard way of matching keys for some reason. i'll upload my better performing regex patern later.
