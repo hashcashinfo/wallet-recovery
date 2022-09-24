@@ -2,8 +2,12 @@
 
 
 import re
+from pycoin.symbols.ltc import network as ltcnet
 wf=open('./wallet.dat','rv').read()
 for match in re.findall(b'(\x01\x01\x04[\x1e-\x20].{34})',wf):
     key=match.hex()
     numtoread=(int.from_bytes(bytes.fromhex(str(key[6:8])),'big'))
-    print(key[8:][:numtoread*2])
+    keyexpo=bytes.fromhex(key[8:][:numtoread*2])
+    secint=(int.from_bytes(keyexpo,'big'))
+    keyp=ltcnet.keys.private(is_compressed=True,secret_exponent=secint)
+    print(keyp.address())
