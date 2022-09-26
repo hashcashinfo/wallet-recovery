@@ -1,4 +1,4 @@
-# Copyright (c) 2022-* Emrre Korkmaz. (https://linkedin.com/in/in-).
+# Copyright (c) 2022-* Emre Korkmaz. (https://linkedin.com/in/in-).
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -22,7 +22,7 @@ import re
 from pycoin.symbols.btc import network as btcnet
 from pycoin.symbols.doge import network as dogenet
 from pycoin.symbols.ltc import network as ltcnet
-wf=open('/Users/em/Downloads/ec.dat','rb').read()
+wf=open('/wallet.dat','rb').read()
 secset=set()
 btccaddrset=set()
 
