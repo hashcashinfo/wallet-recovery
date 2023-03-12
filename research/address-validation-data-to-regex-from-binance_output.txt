@@ -1,0 +1,863 @@
+Adventure Gold ^(0x)[0-9A-Fa-f]{40}$
+Standard Tokenization Protocol ^(0x)[0-9A-Fa-f]{40}$
+Mexican Peso 
+Uganda Shilling 
+renBTC ^(0x)[0-9A-Fa-f]{40}$
+renBTC ^(0x)[0-9A-Fa-f]{40}$
+Golem ^(0x)[0-9A-Fa-f]{40}$
+Raydium ^[1-9A-HJ-NP-Za-km-z]{32,44}$
+NEAR Protocol ^(bnb1)[0-9a-z]{38}$
+NEAR Protocol ^(0x)[0-9A-Fa-f]{40}$
+NEAR Protocol ^[a-z0-9_-]{1}[a-z0-9_.-]{0,62}[a-z0-9_-]{1}$
+Audius ^(0x)[0-9A-Fa-f]{40}$
+Helium ^(1)[0-9A-za-z]{50}$
+ADADOWN 
+Blox ^(0x)[0-9A-Fa-f]{40}$
+Spartan Protocol ^(0x)[0-9A-Fa-f]{40}$
+sUSD ^(0x)[0-9A-Fa-f]{40}$
+Harvest Finance ^(0x)[0-9A-Fa-f]{40}$
+Harvest Finance ^(0x)[0-9A-Fa-f]{40}$
+Nano ^(xrb_|nano_)[13456789abcdefghijkmnopqrstuwxyz]{60}
+AION ^(0x)[0-9A-Fa-f]{64}$
+AION ^(0x)[0-9A-Fa-f]{40}$
+DigiByte ^[DS][a-km-zA-HJ-NP-Z1-9]{25,34}$|^(dgb1)[0-9A-Za-z]{39,59}$
+0x ^(0x)[0-9A-Fa-f]{40}$
+Bitcoin Diamond ^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$
+EasyFi ^(0x)[0-9A-Fa-f]{40}$
+EasyFi ^(0x)[0-9A-Fa-f]{40}$
+Santos FC Fan Token ^(0x)[0-9A-Fa-f]{40}$
+Wing Token ^(A)[A-Za-z0-9]{33}$
+Wrapped NXM ^(0x)[0-9A-Fa-f]{40}$
+Bitcoin Cash ^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$|^[0-9A-Za-z]{42,42}$
+Bitcoin Cash ^(bnb1)[0-9a-z]{38}$
+Bitcoin Cash ^(0x)[0-9A-Fa-f]{40}$
+Bitcoin Cash ^(0x)[0-9A-Fa-f]{40}$
+JUST ^(0x)[0-9A-Fa-f]{40}$
+JUST ^T[1-9A-HJ-NP-Za-km-z]{33}$
+ADAUP 
+Holo ^(0x)[0-9A-Fa-f]{40}$
+Green Metaverse Token ^(0x)[0-9A-Fa-f]{40}$
+Green Metaverse Token ^[1-9A-HJ-NP-Za-km-z]{32,44}$
+Arweave ^[0-9a-z-A-Z\-\_]{43}$
+IRISnet ^(iaa1)[0-9a-z]{38}$
+RAMP ^(0x)[0-9A-Fa-f]{40}$
+RAMP ^(0x)[0-9A-Fa-f]{40}$
+BitcoinX ^(X)[0-9A-za-z]{33}$
+Swedish Kroner  
+Triggers ^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$
+Ripio Credit Network ^(0x)[0-9A-Fa-f]{40}$
+COVER Protocol ^(0x)[0-9A-Fa-f]{40}$
+Flamingo ^(A)[A-Za-z0-9]{33}$
+Gnosis ^(0x)[0-9A-Fa-f]{40}$
+VITE ^(0x)[0-9A-Fa-f]{40}$
+VITE ^(vite_)[a-z0-9]{50}$
+Golem ^(0x)[0-9A-Fa-f]{40}$
+Binance KRW ^(bnb1)[0-9a-z]{38}$
+Conflux Network ^(0x)[0-9A-Fa-f]{40}$
+Threshold Network Token ^(0x)[0-9A-Fa-f]{40}$
+Proton ^(0x)[0-9A-Fa-f]{40}$
+SafePal ^(0x)[0-9A-Fa-f]{40}$
+DIA ^(0x)[0-9A-Fa-f]{40}$
+DIA ^(0x)[0-9A-Fa-f]{40}$
+Raiden Network Token ^(0x)[0-9A-Fa-f]{40}$
+Acala Token ^[0-9a-z-A-Z]{44,50}$
+Ardor ^(ARDOR-)[0-9A-Za-z]{4}(-)[0-9A-Za-z]{4}(-)[0-9A-Za-z]{4}(-)[0-9A-Za-z]{5}$
+Old Loom Network ^(0x)[0-9A-Fa-f]{40}$
+Neblio ^N[A-Za-z0-9]{33}$
+Alchemy Pay ^(0x)[0-9A-Fa-f]{40}$
+Alchemy Pay ^(0x)[0-9A-Fa-f]{40}$
+Small Love Potion Old ^(0x)[0-9A-Fa-f]{40}$
+Bella Protocol ^(bnb1)[0-9a-z]{38}$
+Bella Protocol ^(0x)[0-9A-Fa-f]{40}$
+Bella Protocol ^(0x)[0-9A-Fa-f]{40}$
+Juventus Fan Token ^(0x)[0-9A-Fa-f]{40}$
+Juventus Fan Token ^(0x)[0-9A-Fa-f]{40}$
+AC Milan Fan Token ^(0x)[0-9A-Fa-f]{40}$
+Mina ^(B62)[A-Za-z0-9]{52}$
+GRTDOWN 
+VeThor Token ^(0x)[0-9A-Fa-f]{40}$
+Vulcan Forged PYR Old ^(0x)[0-9A-Fa-f]{40}$
+Vulcan Forged PYR Old ^(0x)[0-9A-Fa-f]{40}$
+Songbird ^(0x)[0-9A-Fa-f]{40}$
+Salt ^(0x)[0-9A-Fa-f]{40}$
+Storm ^(0x)[0-9A-Fa-f]{40}$
+WOO Network ^(0x)[0-9A-Fa-f]{40}$
+WOO Network ^(0x)[0-9A-Fa-f]{40}$
+Ren ^(0x)[0-9A-Fa-f]{40}$
+Augur v2 ^(0x)[0-9A-Fa-f]{40}$
+Cardano ^(([0-9A-Za-z]{57,59})|([0-9A-Za-z]{100,104}))$
+Cardano ^(bnb1)[0-9a-z]{38}$
+Cardano ^(0x)[0-9A-Fa-f]{40}$
+aelf ^(bnb1)[0-9a-z]{38}$
+aelf ^(0x)[0-9A-Fa-f]{40}$
+aelf ^(0x)[0-9A-Fa-f]{40}$
+Request Network ^(0x)[0-9A-Fa-f]{40}$
+Storj ^(0x)[0-9A-Fa-f]{40}$
+schweizer Franken 
+ADD ^[1-5a-z\.]{1,12}$
+bZx Protocol ^(0x)[0-9A-Fa-f]{40}$
+snglsDAO Governance Token ^(0x)[0-9A-Fa-f]{40}$
+dForce ^(0x)[0-9A-Fa-f]{40}$
+dForce ^(0x)[0-9A-Fa-f]{40}$
+SuperRare ^(0x)[0-9A-Fa-f]{40}$
+EOSDOWN 
+PAX Gold ^(0x)[0-9A-Fa-f]{40}$
+YOYOW ^[0-9]{5,20}$
+Paxos Standard ^(bnb1)[0-9a-z]{38}$
+Paxos Standard ^(0x)[0-9A-Fa-f]{40}$
+Chromia ^(0x)[0-9A-Fa-f]{40}$
+Chromia ^(0x)[0-9A-Fa-f]{40}$
+Vietnamese Dong 
+BCHDOWN 
+Waves ^(3P)[0-9A-Za-z]{33}$
+Chiliz ^(bnb1)[0-9a-z]{38}$
+Chiliz ^(0x)[0-9A-Fa-f]{40}$
+Ambire AdEx ^(0x)[0-9A-Fa-f]{40}$
+Ambire AdEx ^(0x)[0-9A-Fa-f]{40}$
+Ripple ^(bnb1)[0-9a-z]{38}$
+Ripple ^(0x)[0-9A-Fa-f]{40}$
+Ripple ^(0x)[0-9A-Fa-f]{40}$
+Ripple ^r[1-9A-HJ-NP-Za-km-z]{25,34}$
+WePower ^(0x)[0-9A-Fa-f]{40}$
+JasmyCoin ^(0x)[0-9A-Fa-f]{40}$
+United Arab Emirates dirham 
+Bonfida ^[1-9A-HJ-NP-Za-km-z]{32,44}$
+The Sandbox ^(0x)[0-9A-Fa-f]{40}$
+The Sandbox ^(0x)[0-9A-Fa-f]{40}$
+The Sandbox ^(0x)[0-9A-Fa-f]{40}$
+Danish Kroner  
+Ocean Protocol ^(0x)[0-9A-Fa-f]{40}$
+Ocean Protocol ^(0x)[0-9A-Fa-f]{40}$
+ForTube ^(0x)[0-9A-Fa-f]{40}$
+ForTube ^(0x)[0-9A-Fa-f]{40}$
+UMA ^(0x)[0-9A-Fa-f]{40}$
+Old DREP ^(0x)[0-9A-Fa-f]{40}$
+Secret ^(0x)[0-9A-Fa-f]{40}$
+Secret ^(secret1)[0-9a-z]{38}$
+TrueUSD ^(bnb1)[0-9a-z]{38}$
+TrueUSD ^(0x)[0-9A-Fa-f]{40}$
+TrueUSD ^(0x)[0-9A-Fa-f]{40}$
+EasyFi ^(0x)[0-9A-Fa-f]{40}$
+EasyFi ^(0x)[0-9A-Fa-f]{40}$
+Tokocrypto ^(bnb1)[0-9a-z]{38}$
+Tokocrypto ^(0x)[0-9A-Fa-f]{40}$
+TAEL ^(0x)[0-9A-Fa-f]{40}$
+Rari Governance Token ^(0x)[0-9A-Fa-f]{40}$
+Rupiah Token ^(bnb1)[0-9a-z]{38}$
+Rupiah Token ^(0x)[0-9A-Fa-f]{40}$
+Enigma ^(0x)[0-9A-Fa-f]{40}$
+Enjin Coin ^(0x)[0-9A-Fa-f]{40}$
+UNIDOWN 
+DFI.Money ^(bnb1)[0-9a-z]{38}$
+DFI.Money ^(0x)[0-9A-Fa-f]{40}$
+DFI.Money ^(0x)[0-9A-Fa-f]{40}$
+Kazakhstani Tenge 
+openANX ^(0x)[0-9A-Fa-f]{40}$
+openANX ^(0x)[0-9A-Fa-f]{40}$
+The Graph ^(0x)[0-9A-Fa-f]{40}$
+Groestlcoin (F|3)[0-9A-za-z]{33}|grs1[qpzry9x8gf2tvdw0s3jn54khce6mua7l]{39}
+Unification ^(bnb1)[0-9a-z]{38}$
+Unification ^(0x)[0-9A-Fa-f]{40}$
+Kava Lend ^(0x)[0-9A-Fa-f]{40}$
+Kava Lend ^(kava1)[0-9a-z]{38}$
+Theta Fuel ^(0x)[0-9A-Fa-f]{40}$
+Ethereum Name Service ^(0x)[0-9A-Fa-f]{40}$
+Aave ^(0x)[0-9A-Fa-f]{40}$
+Agrello ^(0x)[0-9A-Fa-f]{40}$
+Troy ^(bnb1)[0-9a-z]{38}$
+Troy ^(0x)[0-9A-Fa-f]{40}$
+XLMUP 
+Uniswap ^(bnb1)[0-9a-z]{38}$
+Uniswap ^(0x)[0-9A-Fa-f]{40}$
+Uniswap ^(0x)[0-9A-Fa-f]{40}$
+BTCDOWN 
+Alien Worlds ^(0x)[0-9A-Fa-f]{40}$
+Alien Worlds ^(0x)[0-9A-Fa-f]{40}$
+Hungarian Forint  
+Super Bitcoin ^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$
+CKB ^ckb1[qpzry9x8gf2tvdw0s3jn54khce6mua7l]{8,}
+WazirX ^(bnb1)[0-9a-z]{38}$
+WazirX ^(0x)[0-9A-Fa-f]{40}$
+WazirX ^(0x)[0-9A-Fa-f]{40}$
+WazirX ^(0x)[0-9A-Fa-f]{40}$
+Tezos ^(bnb1)[0-9a-z]{38}$
+Tezos ^(0x)[0-9A-Fa-f]{40}$
+Tezos ^(tz[1,2,3])[a-zA-Z0-9]{33}$
+Terra ^(0x)[0-9A-Fa-f]{40}$
+Terra ^(terra1)[0-9a-z]{38}$
+ETHDOWN 
+SingularityNET ^(0x)[0-9A-Fa-f]{40}$
+Bitcoin Cash ABC ^(bnb1)[0-9a-z]{38}$
+Bitcoin Cash ABC ^(0x)[0-9A-Fa-f]{40}$
+EOS Network ^(0x)[0-9A-Fa-f]{40}$
+EOSpace ^(0x)[0-9A-Fa-f]{40}$
+EOS ^(bnb1)[0-9a-z]{38}$
+EOS ^(0x)[0-9A-Fa-f]{40}$
+EOS ^[1-5a-z\.]{1,12}$
+GoChain ^(0x)[0-9A-Fa-f]{40}$
+Nucleus Vision ^(0x)[0-9A-Fa-f]{40}$
+RSK Infrastructure Framework ^(0x)[0-9A-Fa-f]{40}$
+Neutrino Token ^(3P)[0-9A-Za-z]{33}$
+SKALE Network ^(0x)[0-9A-Fa-f]{40}$
+Streamr XDATA ^(0x)[0-9A-Fa-f]{40}$
+Gitcoin ^(0x)[0-9A-Fa-f]{40}$
+Peruvian sol 
+Blockmason Link ^(bnb1)[0-9a-z]{38}$
+Blockmason Link ^(0x)[0-9A-Fa-f]{40}$
+Sologenic ^(0x)[0-9A-Fa-f]{40}$
+SXPDOWN 
+Turkmenistani Manat 
+HyperCash ^[H][a-km-zA-HJ-NP-Z1-9]{26,35}$
+Skycoin ^[0-9A-Za-z]{26,35}$
+Burger Swap ^(bnb1)[0-9a-z]{38}$
+Burger Swap ^(0x)[0-9A-Fa-f]{40}$
+Nebulas ^n1[a-zA-Z0-9]{33}$
+Navcoin ^(0x)[0-9A-Fa-f]{40}$
+Navcoin ((xN)[1-9A-HJ-NP-Za-km-z]{137})|^((N)[1-9A-HJ-NP-Za-km-z]{33})|((X|Y)[1-9A-HJ-NP-Za-km-z]{60})|((4)[1-9A-HJ-NP-Za-km-z]{88})$
+Gifto ^(bnb1)[0-9a-z]{38}$
+Gifto ^(0x)[0-9A-Fa-f]{40}$
+Walton ^(0x)[0-9A-Fa-f]{40}$
+Walton ^(0x)[0-9A-Fa-f]{40}$
+Verge ^(D)[A-Za-z0-9]{33}$
+Ellipsis ^(bnb1)[0-9a-z]{38}$
+Ellipsis ^(0x)[0-9A-Fa-f]{40}$
+district0x ^(0x)[0-9A-Fa-f]{40}$
+Clover Finance ^(0x)[0-9A-Fa-f]{40}$
+Clover Finance ^(0x)[0-9A-Fa-f]{40}$
+Flow ^(0x)[0-9A-Fa-f]{40}$
+Flow ^(0x)[0-9A-Fa-f]{16}$
+XTZDOWN 
+Venus ^(bnb1)[0-9a-z]{38}$
+Venus ^(0x)[0-9A-Fa-f]{40}$
+Steem ^[a-z][a-z0-9-.]{0,14}[a-z0-9]$
+BVND ^(bnb1)[0-9a-z]{38}$
+Smooth Love Potion ^(0x)[0-9A-Fa-f]{40}$
+Smooth Love Potion ^(0x)[0-9A-Fa-f]{40}$
+Smooth Love Potion ^(0x)[0-9A-Fa-f]{40}$
+Venus Reward Token ^(0x)[0-9A-Fa-f]{40}$
+New BitShares ^[a-z]{1}[a-z0-9-\.]{2,62}$
+Donnie Finance ^[A-Za-z0-9_]{5,11}$
+Lazio Fan Token ^(0x)[0-9A-Fa-f]{40}$
+Polkadot ^(bnb1)[0-9a-z]{38}$
+Polkadot ^(0x)[0-9A-Fa-f]{40}$
+Polkadot ^(1)[0-9a-z-A-Z]{44,50}$
+Polkadot ^(0x)[0-9A-Fa-f]{40}$
+Everipedia ^[1-5a-z\.]{1,12}$
+Everipedia ^(0x)[0-9A-Fa-f]{40}$
+GRTUP 
+1inch ^(0x)[0-9A-Fa-f]{40}$
+1inch ^(0x)[0-9A-Fa-f]{40}$
+Kyber Network Crystal Legacy ^(0x)[0-9A-Fa-f]{40}$
+Tranchess ^(0x)[0-9A-Fa-f]{40}$
+Mithril ^(bnb1)[0-9a-z]{38}$
+Mithril ^(0x)[0-9A-Fa-f]{40}$
+Elrond ^(bnb1)[0-9a-z]{38}$
+Elrond ^(0x)[0-9A-Fa-f]{40}$
+Dego Finance ^(0x)[0-9A-Fa-f]{40}$
+Dego Finance ^(0x)[0-9A-Fa-f]{40}$
+Cindicator ^(0x)[0-9A-Fa-f]{40}$
+GYEN ^(0x)[0-9A-Fa-f]{40}$
+Unifi Protocol DAO ^(0x)[0-9A-Fa-f]{40}$
+Unifi Protocol DAO ^(0x)[0-9A-Fa-f]{40}$
+Fantom ^(bnb1)[0-9a-z]{38}$
+Fantom ^(0x)[0-9A-Fa-f]{40}$
+Fantom ^(0x)[0-9A-Fa-f]{40}$
+Fantom ^(0x)[0-9A-Fa-f]{40}$
+PowerLedger ^(0x)[0-9A-Fa-f]{40}$
+Ethernity Chain ^(0x)[0-9A-Fa-f]{40}$
+Genesis Vision ^(0x)[0-9A-Fa-f]{40}$
+Genesis Vision ^(0x)[0-9A-Fa-f]{40}$
+WINGS ^(0x)[0-9A-Fa-f]{40}$
+FTX Token ^(0x)[0-9A-Fa-f]{40}$
+Voxies ^(0x)[0-9A-Fa-f]{40}$
+Phala.Network ^(0x)[0-9A-Fa-f]{40}$
+Phala.Network ^(0x)[0-9A-Fa-f]{40}$
+iExecRLC ^(0x)[0-9A-Fa-f]{40}$
+Phoenix Global ^(0x)[0-9A-Fa-f]{40}$
+TRXDOWN 
+Cosmos ^(cosmos1)[0-9a-z]{38}$
+Cosmos ^(bnb1)[0-9a-z]{38}$
+Cosmos ^(0x)[0-9A-Fa-f]{40}$
+XRPUP 
+QuickSwap ^(0x)[0-9A-Fa-f]{40}$
+QuickSwap ^(0x)[0-9A-Fa-f]{40}$
+Bluzelle ^(0x)[0-9A-Fa-f]{40}$
+Bluzelle ^(0x)[0-9A-Fa-f]{40}$
+SONM ^(0x)[0-9A-Fa-f]{40}$
+SONM ^(0x)[0-9A-Fa-f]{40}$
+BOBA token ^(0x)[0-9A-Fa-f]{40}$
+MovieBloc ^(A)[A-Za-z0-9]{33}$
+BNBUP 
+Mettalex ^(0x)[0-9A-Fa-f]{40}$
+Status ^(0x)[0-9A-Fa-f]{40}$
+Philippine Peso 
+Synthetix Network Token ^(bnb1)[0-9a-z]{38}$
+Synthetix Network Token ^(0x)[0-9A-Fa-f]{40}$
+Synthetix Network Token ^(0x)[0-9A-Fa-f]{40}$
+LTCDOWN 
+FunToken ^(0x)[0-9A-Fa-f]{40}$
+SONM OLD ^(0x)[0-9A-Fa-f]{40}$
+Colombian Peso 
+Contentos ^(bnb1)[0-9a-z]{38}$
+Contentos ^(0x)[0-9A-Fa-f]{40}$
+Contentos ^(0x)[0-9A-Fa-f]{40}$
+API3 ^(0x)[0-9A-Fa-f]{40}$
+USD 
+QuarkChain ^(0x)[0-9A-Fa-f]{40}$
+QuarkChain ^(0x)[0-9A-Fa-f]{40}$
+SUSHIUP 
+Oasis Network ^(oasis1)[0-9a-z]{40}$
+Glimmer ^(0x)[0-9A-Fa-f]{40}$
+Symbol ^[N]{1}[0-9A-Z]{38}$
+Pundi X PURSE ^(0x)[0-9A-Fa-f]{40}$
+Solana ^(0x)[0-9A-Fa-f]{40}$
+Solana ^[1-9A-HJ-NP-Za-km-z]{32,44}$
+TRXUP 
+Manchester City Fan Token ^(0x)[0-9A-Fa-f]{40}$
+Manchester City Fan Token ^(0x)[0-9A-Fa-f]{40}$
+Ethereum Classic ^(bnb1)[0-9a-z]{38}$
+Ethereum Classic ^(0x)[0-9A-Fa-f]{40}$
+Ethereum Classic ^(0x)[0-9A-Fa-f]{40}$
+Bifrost 
+BNB ^(bnb1)[0-9a-z]{38}$
+BNB ^(0x)[0-9A-Fa-f]{40}$
+BNB ^(0x)[0-9A-Fa-f]{40}$
+Celer Network ^(0x)[0-9A-Fa-f]{40}$
+Celer Network ^(0x)[0-9A-Fa-f]{40}$
+TerraUSD ^(0x)[0-9A-Fa-f]{40}$
+TerraUSD ^(0x)[0-9A-Fa-f]{40}$
+TerraUSD ^(terra1)[0-9a-z]{38}$
+TerraUSD ^(0x)[0-9A-Fa-f]{40}$
+OriginToken ^(0x)[0-9A-Fa-f]{40}$
+Ethereum ^(0x)[0-9A-Fa-f]{40}$
+Ethereum ^(bnb1)[0-9a-z]{38}$
+Ethereum ^(0x)[0-9A-Fa-f]{40}$
+Ethereum ^(0x)[0-9A-Fa-f]{40}$
+NEO ^(A)[A-Za-z0-9]{33}$
+NEO ^(N)[A-Za-z0-9]{33}$
+TomoChain ^(bnb1)[0-9a-z]{38}$
+TomoChain ^(0x)[0-9A-Fa-f]{40}$
+TomoChain ^(0x)[0-9A-Fa-f]{40}$
+Celo ^(0x)[0-9A-Fa-f]{40}$
+Klaytn ^(0x)[0-9A-Fa-f]{40}$
+Auction ^(0x)[0-9A-Fa-f]{40}$
+Auction ^(0x)[0-9A-Fa-f]{40}$
+Badger DAO ^(0x)[0-9A-Fa-f]{40}$
+Highstreet ^(0x)[0-9A-Fa-f]{40}$
+Highstreet ^(0x)[0-9A-Fa-f]{40}$
+GXChain ^[a-z]{1}[a-z0-9-.]{2,62}$
+Tellor Tributes ^(0x)[0-9A-Fa-f]{40}$
+Bancor ^(0x)[0-9A-Fa-f]{40}$
+Bancor ^(0x)[0-9A-Fa-f]{40}$
+QLC Chain ^(A)[A-Za-z0-9]{33}$
+Lend Borrow Asset ^(bnb1)[0-9a-z]{38}$
+Lend Borrow Asset ^(0x)[0-9A-Fa-f]{40}$
+Moeda Loyalty Points ^(0x)[0-9A-Fa-f]{40}$
+Moeda Loyalty Points ^(0x)[0-9A-Fa-f]{40}$
+BinaryX ^(0x)[0-9A-Fa-f]{40}$
+Utrust ^(0x)[0-9A-Fa-f]{40}$
+Wrapped SOL ^[1-9A-HJ-NP-Za-km-z]{32,44}$
+Hegic ^(0x)[0-9A-Fa-f]{40}$
+Manta Network 
+Ambrosus ^(0x)[0-9A-Fa-f]{40}$
+Ambrosus ^(0x)[0-9A-Fa-f]{40}$
+Merit Circle ^(0x)[0-9A-Fa-f]{40}$
+Merit Circle ^(0x)[0-9A-Fa-f]{40}$
+TrueFi ^(0x)[0-9A-Fa-f]{40}$
+TrueFi ^(0x)[0-9A-Fa-f]{40}$
+Wrapped BNB ^(0x)[0-9A-Fa-f]{40}$
+Etherparty ^(0x)[0-9A-Fa-f]{40}$
+DREP ^(0x)[0-9A-Fa-f]{40}$
+DREP ^(0x)[0-9A-Fa-f]{40}$
+Turkish Lira 
+TRON ^(bnb1)[0-9a-z]{38}$
+TRON ^(0x)[0-9A-Fa-f]{40}$
+TRON ^(0x)[0-9A-Fa-f]{40}$
+TRON ^T[1-9A-HJ-NP-Za-km-z]{33}$
+Measurable Data Token ^(0x)[0-9A-Fa-f]{40}$
+Measurable Data Token ^(0x)[0-9A-Fa-f]{40}$
+APENFT ^(0x)[0-9A-Fa-f]{40}$
+APENFT ^T[1-9A-HJ-NP-Za-km-z]{33}$
+Mdex ^(0x)[0-9A-Fa-f]{40}$
+XRPDOWN 
+Aergo ^(bnb1)[0-9a-z]{38}$
+Aergo ^(0x)[0-9A-Fa-f]{40}$
+Euro 
+AMP ^(0x)[0-9A-Fa-f]{40}$
+Bounce Token ^(0x)[0-9A-Fa-f]{40}$
+Bounce Token ^(0x)[0-9A-Fa-f]{40}$
+Nuls ^(0x)[0-9A-Fa-f]{40}$
+Nuls ^NULSd[a-km-zA-HJ-NP-Z1-9]{32,32}$
+Auto ^(0x)[0-9A-Fa-f]{40}$
+Nigerian Naira 
+Anchor Protocol ^(terra1)[0-9a-z]{38}$
+BDOT 
+Elrond eGold ^(0x)[0-9A-Fa-f]{40}$
+Elrond eGold ^(erd)[a-z-A-Z0-9]{59}$
+Old Aragon ^(0x)[0-9A-Fa-f]{40}$
+Spell Token ^(0x)[0-9A-Fa-f]{40}$
+Spell Token ^(0x)[0-9A-Fa-f]{40}$
+Pundi X ^(0x)[0-9A-Fa-f]{40}$
+Frax Share ^(0x)[0-9A-Fa-f]{40}$
+Frax Share ^(0x)[0-9A-Fa-f]{40}$
+PlayDapp ^(0x)[0-9A-Fa-f]{40}$
+PlayDapp ^(0x)[0-9A-Fa-f]{40}$
+Honest ^(bnb1)[0-9a-z]{38}$
+Honest ^(0x)[0-9A-Fa-f]{40}$
+Everex ^(0x)[0-9A-Fa-f]{40}$
+Everex ^(0x)[0-9A-Fa-f]{40}$
+Curve ^(0x)[0-9A-Fa-f]{40}$
+BakeryToken ^(bnb1)[0-9a-z]{38}$
+BakeryToken ^(0x)[0-9A-Fa-f]{40}$
+Aragon ^(0x)[0-9A-Fa-f]{40}$
+NuCypher ^(0x)[0-9A-Fa-f]{40}$
+Flux ^(0x)[0-9A-Fa-f]{40}$
+Flux ^(0x)[0-9A-Fa-f]{40}$
+Anyswap ^(0x)[0-9A-Fa-f]{40}$
+LINKUP 
+Serum ^(0x)[0-9A-Fa-f]{40}$
+Serum ^[1-9A-HJ-NP-Za-km-z]{32,44}$
+QiSwap ^[Q|M][A-Za-z0-9]{33}$
+Tornado Cash ^(0x)[0-9A-Fa-f]{40}$
+Tornado Cash ^(0x)[0-9A-Fa-f]{40}$
+Polish Zlotych  
+Quant ^(0x)[0-9A-Fa-f]{40}$
+My Neighbor Alice ^(0x)[0-9A-Fa-f]{40}$
+My Neighbor Alice ^(0x)[0-9A-Fa-f]{40}$
+OG Fan Token ^(0x)[0-9A-Fa-f]{40}$
+OG Fan Token ^(0x)[0-9A-Fa-f]{40}$
+Mainframe ^(0x)[0-9A-Fa-f]{40}$
+MANTRA DAO ^(0x)[0-9A-Fa-f]{40}$
+MANTRA DAO ^(0x)[0-9A-Fa-f]{40}$
+BitTorrent OLD ^(bnb1)[0-9a-z]{38}$
+BitTorrent OLD ^(0x)[0-9A-Fa-f]{40}$
+BitTorrent OLD ^T[1-9A-HJ-NP-Za-km-z]{33}$
+BETH ^(0x)[0-9A-Fa-f]{40}$
+BETH ^(0x)[0-9A-Fa-f]{40}$
+Old Voyager Token ^(0x)[0-9A-Fa-f]{40}$
+Wrapped Ether ^(0x)[0-9A-Fa-f]{40}$
+Wrapped Ether ^(0x)[0-9A-Fa-f]{40}$
+Phoenix Global old ^(bnb1)[0-9a-z]{38}$
+Phoenix Global old ^(0x)[0-9A-Fa-f]{40}$
+Beta Finance ^(0x)[0-9A-Fa-f]{40}$
+Beta Finance ^(0x)[0-9A-Fa-f]{40}$
+Bread ^(0x)[0-9A-Fa-f]{40}$
+ApeCoin ^(0x)[0-9A-Fa-f]{40}$
+SSV Token ^(0x)[0-9A-Fa-f]{40}$
+BUSD ^(bnb1)[0-9a-z]{38}$
+BUSD ^(0x)[0-9A-Fa-f]{40}$
+BUSD ^(0x)[0-9A-Fa-f]{40}$
+CertiK ^(bnb1)[0-9a-z]{38}$
+CertiK ^(0x)[0-9A-Fa-f]{40}$
+CertiK ^(certik1)[0-9a-z]{38}$
+ARPA Chain ^(bnb1)[0-9a-z]{38}$
+ARPA Chain ^(0x)[0-9A-Fa-f]{40}$
+ARPA Chain ^(0x)[0-9A-Fa-f]{40}$
+DOTDOWN 
+Brazilian Real 
+Alchemix ^(0x)[0-9A-Fa-f]{40}$
+Centra ^(0x)[0-9A-Fa-f]{40}$
+Polygon ^(0x)[0-9A-Fa-f]{40}$
+Polygon ^(0x)[0-9A-Fa-f]{40}$
+Polygon ^(0x)[0-9A-Fa-f]{40}$
+IoTeX ^(bnb1)[0-9a-z]{38}$
+IoTeX ^(0x)[0-9A-Fa-f]{40}$
+IoTeX ^(0x)[0-9A-Fa-f]{40}$
+IoTeX io1[qpzry9x8gf2tvdw0s3jn54khce6mua7l]{38}
+SHIBA INU ^(0x)[0-9A-Fa-f]{40}$
+SHIBA INU ^(0x)[0-9A-Fa-f]{40}$
+Terra Virtua ^(0x)[0-9A-Fa-f]{40}$
+Frontier ^(0x)[0-9A-Fa-f]{40}$
+Frontier ^(0x)[0-9A-Fa-f]{40}$
+Kadena ^k:[0-9a-zA-Z]{64}$
+Kadena ^k:[0-9a-zA-Z]{64}$
+South African Rand 
+DOCK ^(3)[0-9a-z-A-Z]{44,50}$
+Stacks ^S[PM][0-9A-Z]{38,39}$
+pNetwork ^(0x)[0-9A-Fa-f]{40}$
+pNetwork ^(0x)[0-9A-Fa-f]{40}$
+BENQI ^(0x)[0-9A-Fa-f]{40}$
+BENQI ^(0x)[0-9A-Fa-f]{40}$
+DENT ^(0x)[0-9A-Fa-f]{40}$
+MOBOX ^(0x)[0-9A-Fa-f]{40}$
+Substratum ^(0x)[0-9A-Fa-f]{40}$
+POA Network ^(0x)[0-9A-Fa-f]{40}$
+POA Network ^(0x)[0-9A-Fa-f]{40}$
+IOST ^(0x)[0-9A-Fa-f]{40}$
+IOST ^[A-Za-z0-9_]{5,11}$
+PancakeSwap ^(bnb1)[0-9a-z]{38}$
+PancakeSwap ^(0x)[0-9A-Fa-f]{40}$
+Biswap ^(0x)[0-9A-Fa-f]{40}$
+ETHUP 
+Po.et ^(0x)[0-9A-Fa-f]{40}$
+OMG Network ^(0x)[0-9A-Fa-f]{40}$
+BAND ^(band1)[0-9a-z]{38}$
+BAND ^(bnb1)[0-9a-z]{38}$
+BAND ^(0x)[0-9A-Fa-f]{40}$
+BAND ^(0x)[0-9A-Fa-f]{40}$
+SUN ^(0x)[0-9A-Fa-f]{40}$
+SUN ^T[1-9A-HJ-NP-Za-km-z]{33}$
+Astar ^[0-9a-z-A-Z]{44,50}$
+SUN OLD ^T[1-9A-HJ-NP-Za-km-z]{33}$
+Bitcoin ^(bnb1)[0-9a-z]{38}$
+Bitcoin ^(0x)[0-9A-Fa-f]{40}$
+Bitcoin ^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$|^[(bc1q)|(bc1p)][0-9A-Za-z]{37,62}$
+Bitcoin ^(0x)[0-9A-Fa-f]{40}$
+Bitcoin 
+Trust Wallet Token ^(bnb1)[0-9a-z]{38}$
+Trust Wallet Token ^(0x)[0-9A-Fa-f]{40}$
+NKN ^(0x)[0-9A-Fa-f]{40}$
+Reserve Rights ^(0x)[0-9A-Fa-f]{40}$
+MIOTA ^(0x)[0-9A-Fa-f]{40}$
+MIOTA ^(iota)[0-9a-z]{60}$
+Civic ^(0x)[0-9A-Fa-f]{40}$
+Reef Finance ^(0x)[0-9A-Fa-f]{40}$
+Reef Finance ^(0x)[0-9A-Fa-f]{40}$
+Bitcoin Gold ^(0x)[0-9A-Fa-f]{40}$
+Bitcoin Gold ^[AG][a-km-zA-HJ-NP-Z1-9]{25,34}$
+Mirror Protocol ^(0x)[0-9A-Fa-f]{40}$
+Mirror Protocol ^(0x)[0-9A-Fa-f]{40}$
+Kenya Shilling 
+Ark ^(A)[A-Za-z0-9]{33}$
+League of Kingdoms ^(0x)[0-9A-Fa-f]{40}$
+PowerPool ^(0x)[0-9A-Fa-f]{40}$
+PowerPool ^(0x)[0-9A-Fa-f]{40}$
+Aeron ^(bnb1)[0-9a-z]{38}$
+Aeron ^(0x)[0-9A-Fa-f]{40}$
+Selfkey ^(0x)[0-9A-Fa-f]{40}$
+BitShares ^[a-z]{1}[a-z0-9-\.]{2,62}$
+Spartan Protocol Old ^(0x)[0-9A-Fa-f]{40}$
+Argentine Peso 
+Convex Finance ^(0x)[0-9A-Fa-f]{40}$
+Harmony ^(bnb1)[0-9a-z]{38}$
+Harmony ^(one1)[a-z0-9]{38}$
+LINKDOWN 
+Ontology Gas ^(A)[A-Za-z0-9]{33}$
+Ankr ^(bnb1)[0-9a-z]{38}$
+Ankr ^(0x)[0-9A-Fa-f]{40}$
+Ankr ^(0x)[0-9A-Fa-f]{40}$
+Sushi ^(bnb1)[0-9a-z]{38}$
+Sushi ^(0x)[0-9A-Fa-f]{40}$
+Sushi ^(0x)[0-9A-Fa-f]{40}$
+Algorand ^[A-Z0-9]{58,58}$
+Siacoin ^[A-Za-z0-9]{76}$
+Wrapped Bitcoin ^(0x)[0-9A-Fa-f]{40}$
+Ontology ^(bnb1)[0-9a-z]{38}$
+Ontology ^(0x)[0-9A-Fa-f]{40}$
+Ontology ^(A)[A-Za-z0-9]{33}$
+Populous ^(0x)[0-9A-Fa-f]{40}$
+OnX.Finance ^(0x)[0-9A-Fa-f]{40}$
+BitTorrent ^(0x)[0-9A-Fa-f]{40}$
+BitTorrent ^T[1-9A-HJ-NP-Za-km-z]{33}$
+Russian Ruble 
+PIVX ^(D)[0-9A-za-z]{33}$
+AS Roma Fan Token ^(0x)[0-9A-Fa-f]{40}$
+AS Roma Fan Token ^(0x)[0-9A-Fa-f]{40}$
+Firo ^(0x)[0-9A-Fa-f]{40}$
+Firo ^[a|Z|3|4][0-9A-za-z]{33}$
+Axie Infinity Old ^(0x)[0-9A-Fa-f]{40}$
+AirSwap ^(0x)[0-9A-Fa-f]{40}$
+Decentraland ^(0x)[0-9A-Fa-f]{40}$
+DOTUP 
+Automata ^(0x)[0-9A-Fa-f]{40}$
+Automata ^(0x)[0-9A-Fa-f]{40}$
+MEETONE ^[1-5a-z\.]{1,12}$
+Quantstamp ^(0x)[0-9A-Fa-f]{40}$
+Atidium ^[1-5a-z\.]{1,12}$
+Numeraire ^(0x)[0-9A-Fa-f]{40}$
+Maker ^(bnb1)[0-9a-z]{38}$
+Maker ^(0x)[0-9A-Fa-f]{40}$
+Maker ^(0x)[0-9A-Fa-f]{40}$
+DODO ^(0x)[0-9A-Fa-f]{40}$
+DODO ^(0x)[0-9A-Fa-f]{40}$
+Litentry ^(0x)[0-9A-Fa-f]{40}$
+Litentry ^(0x)[0-9A-Fa-f]{40}$
+Internet Computer ^[0-9a-zA-Z]{64}$
+Zcash ^(bnb1)[0-9a-z]{38}$
+Zcash ^(0x)[0-9A-Fa-f]{40}$
+Zcash ^(t)[A-Za-z0-9]{34}$
+Atlético de Madrid Fan Token ^(0x)[0-9A-Fa-f]{40}$
+Atlético de Madrid Fan Token ^(0x)[0-9A-Fa-f]{40}$
+AppCoins ^(0x)[0-9A-Fa-f]{40}$
+Jex Token ^(0x)[0-9A-Fa-f]{40}$
+ICON ^(hx)[A-Za-z0-9]{40}$
+Loom Network ^(0x)[0-9A-Fa-f]{40}$
+Loom Network ^(0x)[0-9A-Fa-f]{40}$
+Horizen ^(z)[0-9A-za-z]{34}$
+Keep3rV1 ^(0x)[0-9A-Fa-f]{40}$
+Dogecoin ^(bnb1)[0-9a-z]{38}$
+Dogecoin ^(0x)[0-9A-Fa-f]{40}$
+Dogecoin ^(D|A|9)[a-km-zA-HJ-NP-Z1-9]{33,34}$
+Dusk Network ^(bnb1)[0-9a-z]{38}$
+Dusk Network ^(0x)[0-9A-Fa-f]{40}$
+Dusk Network ^(0x)[0-9A-Fa-f]{40}$
+Alpha Finance Lab ^(0x)[0-9A-Fa-f]{40}$
+Alpha Finance Lab ^(0x)[0-9A-Fa-f]{40}$
+BOLT ^(bnb1)[0-9a-z]{38}$
+BOLT ^(0x)[0-9A-Fa-f]{40}$
+Swipe ^(bnb1)[0-9a-z]{38}$
+Swipe ^(0x)[0-9A-Fa-f]{40}$
+Swipe ^(0x)[0-9A-Fa-f]{40}$
+Hedera Hashgraph ^0[.]0[.]\d{1,6}$
+Ravencoin ^[Rr]{1}[A-Za-z0-9]{33,34}$
+Enzyme ^(0x)[0-9A-Fa-f]{40}$
+Australian Dollar 
+Old LTO network token ^(0x)[0-9A-Fa-f]{40}$
+Indonesian Rupiah 
+Cartesi ^(0x)[0-9A-Fa-f]{40}$
+Cartesi ^(0x)[0-9A-Fa-f]{40}$
+Kava ^(bnb1)[0-9a-z]{38}$
+Kava ^(kava1)[0-9a-z]{38}$
+Coin98 ^(0x)[0-9A-Fa-f]{40}$
+Coin98 ^(0x)[0-9A-Fa-f]{40}$
+Paris Saint-Germain Fan Token ^(0x)[0-9A-Fa-f]{40}$
+Paris Saint-Germain Fan Token ^(0x)[0-9A-Fa-f]{40}$
+HealthCare Chain ^(H)[A-Za-z0-9]{33}$
+VIDT Datalink ^(0x)[0-9A-Fa-f]{40}$
+VIDT Datalink ^(0x)[0-9A-Fa-f]{40}$
+Norwegian Kroner  
+Travala.com ^(bnb1)[0-9a-z]{38}$
+Travala.com ^(0x)[0-9A-Fa-f]{40}$
+Travala.com ^(0x)[0-9A-Fa-f]{40}$
+Syscoin (S)[A-Za-z0-9]{32,33}|sys1[qpzry9x8gf2tvdw0s3jn54khce6mua7l]{39}
+Cocos-BCX ^(bnb1)[0-9a-z]{38}$
+Cocos-BCX ^(0x)[0-9A-Fa-f]{40}$
+Cocos-BCX ^(0x)[0-9A-Fa-f]{40}$
+Stratis ^(X)[0-9A-Za-z]{33}$
+EOSUP 
+Czech Koruny  
+NeoGas ^(A)[A-Za-z0-9]{33}$
+NeoGas ^(N)[A-Za-z0-9]{33}$
+COVER Protocol Old ^(0x)[0-9A-Fa-f]{40}$
+AAVEDOWN 
+Theta Token ^(0x)[0-9A-Fa-f]{40}$
+BCHUP 
+Wanchain ^(0x)[0-9A-Fa-f]{40}$
+Orion Protocol ^(0x)[0-9A-Fa-f]{40}$
+Orion Protocol ^(0x)[0-9A-Fa-f]{40}$
+Perlin ^(0x)[0-9A-Fa-f]{40}$
+Perlin ^(0x)[0-9A-Fa-f]{40}$
+XLMDOWN 
+Mask Network ^(0x)[0-9A-Fa-f]{40}$
+Mask Network ^(0x)[0-9A-Fa-f]{40}$
+Aave ^(bnb1)[0-9a-z]{38}$
+Aave ^(0x)[0-9A-Fa-f]{40}$
+Aave ^(0x)[0-9A-Fa-f]{40}$
+Pound Sterling 
+Perpetual Protocol ^(0x)[0-9A-Fa-f]{40}$
+Perpetual Protocol ^(0x)[0-9A-Fa-f]{40}$
+1INCHUP 
+SXPUP 
+YFIDOWN 
+BarnBridge ^(0x)[0-9A-Fa-f]{40}$
+yearn.finance ^(bnb1)[0-9a-z]{38}$
+yearn.finance ^(0x)[0-9A-Fa-f]{40}$
+yearn.finance ^(0x)[0-9A-Fa-f]{40}$
+Perlin Old Token ^(0x)[0-9A-Fa-f]{40}$
+Modum ^(0x)[0-9A-Fa-f]{40}$
+Biconomy ^(0x)[0-9A-Fa-f]{40}$
+OST ^(0x)[0-9A-Fa-f]{40}$
+eCash ^(0x)[0-9A-Fa-f]{40}$
+eCash ^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$|^(ecash:)([qpzry9x8gf2tvdw0s3jn54khce6mua7l]{42})$
+Yield Guild Games ^(0x)[0-9A-Fa-f]{40}$
+Yield Guild Games ^(0x)[0-9A-Fa-f]{40}$
+ConstitutionDAO ^(0x)[0-9A-Fa-f]{40}$
+Axie Infinity ^(0x)[0-9A-Fa-f]{40}$
+Axie Infinity ^(0x)[0-9A-Fa-f]{40}$
+Axie Infinity ^(0x)[0-9A-Fa-f]{40}$
+Zilliqa ^(0x)[0-9A-Fa-f]{40}$
+Zilliqa zil1[qpzry9x8gf2tvdw0s3jn54khce6mua7l]{38}
+Vai ^(0x)[0-9A-Fa-f]{40}$
+NEM ^(NA|NB|NC|ND)[a-zA-z0-9]{38}$
+Cortex ^(0x)[0-9A-Fa-f]{40}$
+Cortex ^(0x)[0-9A-Fa-f]{40}$
+KeyFi ^(0x)[0-9A-Fa-f]{40}$
+XTZUP 
+BIDR ^(bnb1)[0-9a-z]{38}$
+BIDR ^(0x)[0-9A-Fa-f]{40}$
+Bitcoin Cash SV ^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$|^[0-9A-Za-z]{42,42}$
+AAVEUP 
+SUSHIDOWN 
+Compound ^(bnb1)[0-9a-z]{38}$
+Compound ^(0x)[0-9A-Fa-f]{40}$
+Compound ^(0x)[0-9A-Fa-f]{40}$
+BNT Smart Token Relay ^(0x)[0-9A-Fa-f]{40}$
+Old MANTRA DAO ^(0x)[0-9A-Fa-f]{40}$
+OokiDAO ^(0x)[0-9A-Fa-f]{40}$
+THORChain ^(bnb1)[0-9a-z]{38}$
+Ampleforth Governance Token ^(0x)[0-9A-Fa-f]{40}$
+Komodo ^(0x)[0-9A-Fa-f]{40}$
+Komodo ^(R)[A-Za-z0-9]{33}$
+Aavegotchi ^(0x)[0-9A-Fa-f]{40}$
+Alpine F1 Team Fan Token ^(0x)[0-9A-Fa-f]{40}$
+IDEX ^(0x)[0-9A-Fa-f]{40}$
+IDEX ^(0x)[0-9A-Fa-f]{40}$
+BNBDOWN 
+DeXe ^(0x)[0-9A-Fa-f]{40}$
+DeXe ^(0x)[0-9A-Fa-f]{40}$
+Avalanche ^(X-avax)[0-9A-za-z]{39}$
+Avalanche ^(0x)[0-9A-Fa-f]{40}$
+Avalanche ^(0x)[0-9A-Fa-f]{40}$
+Ukraine Hryvnia 
+KyberNetwork ^(0x)[0-9A-Fa-f]{40}$
+KyberNetwork ^(0x)[0-9A-Fa-f]{40}$
+Prosper ^(0x)[0-9A-Fa-f]{40}$
+Prosper ^(0x)[0-9A-Fa-f]{40}$
+Prometeus ^(0x)[0-9A-Fa-f]{40}$
+Prometeus ^(0x)[0-9A-Fa-f]{40}$
+BTCUP 
+ChatCoin ^(0x)[0-9A-Fa-f]{40}$
+BGBP ^(0x)[0-9A-Fa-f]{40}$
+Livepeer ^(0x)[0-9A-Fa-f]{40}$
+Hive ^[a-z][a-z0-9-.]{0,14}[a-z0-9]$
+Beefy.Finance ^(bnb1)[0-9a-z]{38}$
+Beefy.Finance ^(0x)[0-9A-Fa-f]{40}$
+FC Porto Fan Token ^(0x)[0-9A-Fa-f]{40}$
+Breaker ^(0x)[0-9A-Fa-f]{40}$
+Vulcan Forged PYR ^(0x)[0-9A-Fa-f]{40}$
+Vulcan Forged PYR ^(0x)[0-9A-Fa-f]{40}$
+WAX ^[1-5a-z\.]{1,12}$
+Dai ^(bnb1)[0-9a-z]{38}$
+Dai ^(0x)[0-9A-Fa-f]{40}$
+Dai ^(0x)[0-9A-Fa-f]{40}$
+YFIUP 
+Mines of Dalarnia ^(0x)[0-9A-Fa-f]{40}$
+Mines of Dalarnia ^(0x)[0-9A-Fa-f]{40}$
+Fetch.AI ^(0x)[0-9A-Fa-f]{40}$
+Fetch.AI ^(0x)[0-9A-Fa-f]{40}$
+Fetch.AI ^(fetch1)[0-9a-z]{38}$
+Loopring ^(0x)[0-9A-Fa-f]{40}$
+Augur ^(0x)[0-9A-Fa-f]{40}$
+AdEx Old Token ^(0x)[0-9A-Fa-f]{40}$
+Monetha ^(0x)[0-9A-Fa-f]{40}$
+Metal ^(0x)[0-9A-Fa-f]{40}$
+VeChain ^(0x)[0-9A-Fa-f]{40}$
+Alpaca Finance ^(0x)[0-9A-Fa-f]{40}$
+Alpaca Finance ^(0x)[0-9A-Fa-f]{40}$
+TetherUS ^(0x)[0-9A-Fa-f]{40}$
+TetherUS ^(bnb1)[0-9a-z]{38}$
+TetherUS ^(0x)[0-9A-Fa-f]{40}$
+TetherUS ^(0x)[0-9A-Fa-f]{40}$
+TetherUS ^[1-9A-HJ-NP-Za-km-z]{32,44}$
+TetherUS ^T[1-9A-HJ-NP-Za-km-z]{33}$
+Edgeware ^[0-9a-z-A-Z]{44,50}$
+StableUSD ^(bnb1)[0-9a-z]{38}$
+StableUSD ^(0x)[0-9A-Fa-f]{40}$
+Orchid ^(0x)[0-9A-Fa-f]{40}$
+Pax Dollar ^(0x)[0-9A-Fa-f]{40}$
+Pax Dollar ^(0x)[0-9A-Fa-f]{40}$
+Dash ^[X|7][0-9A-Za-z]{33}$
+NerveNetwork ^NULSd[a-km-zA-HJ-NP-Z1-9]{32,32}$
+Swerve ^(0x)[0-9A-Fa-f]{40}$
+Eidoo ^(0x)[0-9A-Fa-f]{40}$
+Illuvium ^(0x)[0-9A-Fa-f]{40}$
+Illuvium ^(0x)[0-9A-Fa-f]{40}$
+Ghanaian cedi 
+Bitcoin Standard Hashrate Token ^(bnb1)[0-9a-z]{38}$
+Bitcoin Standard Hashrate Token ^(0x)[0-9A-Fa-f]{40}$
+Hong Kong Dollar 
+JOE ^(0x)[0-9A-Fa-f]{40}$
+Lisk ^(lsk)[0-9A-Za-z]{38}$
+Keep Network ^(0x)[0-9A-Fa-f]{40}$
+Canadian Dollar 
+Beam ^[A-Za-z0-9]{65,500}$|^(beam:)[A-Za-z0-9]{65,495}$
+CanYaCoin ^(bnb1)[0-9a-z]{38}$
+CanYaCoin ^(0x)[0-9A-Fa-f]{40}$
+Decred ^(Ds|Dc)[0-9A-Za-z]{33}$
+Cream Finance ^(0x)[0-9A-Fa-f]{40}$
+Cream Finance ^(0x)[0-9A-Fa-f]{40}$
+Streamr DATAcoin ^(0x)[0-9A-Fa-f]{40}$
+Streamr DATAcoin ^(0x)[0-9A-Fa-f]{40}$
+Streamr DATAcoin ^(0x)[0-9A-Fa-f]{40}$
+Immutable X ^(0x)[0-9A-Fa-f]{40}$
+Hut34 Entropy ^(bnb1)[0-9a-z]{38}$
+Hut34 Entropy ^(0x)[0-9A-Fa-f]{40}$
+FILUP 
+UNIUP 
+USD Coin ^(0x)[0-9A-Fa-f]{40}$
+USD Coin ^(bnb1)[0-9a-z]{38}$
+USD Coin ^(0x)[0-9A-Fa-f]{40}$
+USD Coin ^(0x)[0-9A-Fa-f]{40}$
+USD Coin ^(0x)[0-9A-Fa-f]{40}$
+USD Coin ^[1-9A-HJ-NP-Za-km-z]{32,44}$
+USD Coin ^T[1-9A-HJ-NP-Za-km-z]{33}$
+Litecoin ^(bnb1)[0-9a-z]{38}$
+Litecoin ^(0x)[0-9A-Fa-f]{40}$
+Litecoin ^(L|M|3)[A-Za-z0-9]{33}$|^(ltc1)[0-9A-Za-z]{39}$
+WINK ^(bnb1)[0-9a-z]{38}$
+WINK ^(0x)[0-9A-Fa-f]{40}$
+WINK ^T[1-9A-HJ-NP-Za-km-z]{33}$
+LTCUP 
+Injective Protocol ^(bnb1)[0-9a-z]{38}$
+Injective Protocol ^(0x)[0-9A-Fa-f]{40}$
+Injective Protocol ^(0x)[0-9A-Fa-f]{40}$
+TokenClub Token ^(bnb1)[0-9a-z]{38}$
+TokenClub Token ^(0x)[0-9A-Fa-f]{40}$
+TokenClub Token ^(0x)[0-9A-Fa-f]{40}$
+Parallel Finance ^[0-9a-z-A-Z]{44,50}$
+LTO Network ^(bnb1)[0-9a-z]{38}$
+LTO Network ^(0x)[0-9A-Fa-f]{40}$
+LTO Network ^(0x)[0-9A-Fa-f]{40}$
+LTO Network ^(3J)[0-9A-Za-z]{33}$
+Voyager Token ^(0x)[0-9A-Fa-f]{40}$
+Tribe ^(0x)[0-9A-Fa-f]{40}$
+Nexus ^(2|8)[A-Za-z0-9]{50}$
+Efinity Token 
+dYdX ^(0x)[0-9A-Fa-f]{40}$
+SingularityNET Token ^(0x)[0-9A-Fa-f]{40}$
+INR 
+Cobak ^(0x)[0-9A-Fa-f]{40}$
+Crypto Bonus Miles Token ^(bnb1)[0-9a-z]{38}$
+Crypto Bonus Miles Token ^(0x)[0-9A-Fa-f]{40}$
+Insolar ^(0x)[0-9A-Fa-f]{40}$
+Marlin ^(0x)[0-9A-Fa-f]{40}$
+Marlin ^(0x)[0-9A-Fa-f]{40}$
+Japanese Yen 
+Linear ^(0x)[0-9A-Fa-f]{40}$
+Linear ^(0x)[0-9A-Fa-f]{40}$
+Stellar Lumens ^(0x)[0-9A-Fa-f]{40}$
+Stellar Lumens ^G[A-D]{1}[A-Z2-7]{54}$
+ChainLink ^(bnb1)[0-9a-z]{38}$
+ChainLink ^(0x)[0-9A-Fa-f]{40}$
+ChainLink ^(0x)[0-9A-Fa-f]{40}$
+Qtum ^[Q|M][A-Za-z0-9]{33}$
+FILDOWN 
+SuperFarm ^(0x)[0-9A-Fa-f]{40}$
+SuperFarm ^(0x)[0-9A-Fa-f]{40}$
+UniLend ^(0x)[0-9A-Fa-f]{40}$
+UniLend ^(0x)[0-9A-Fa-f]{40}$
+Polkastarter ^(0x)[0-9A-Fa-f]{40}$
+Polkastarter ^(0x)[0-9A-Fa-f]{40}$
+Kusama ^(0x)[0-9A-Fa-f]{40}$
+Kusama ^[0-9a-z-A-Z]{44,50}$
+Lunyr ^(0x)[0-9A-Fa-f]{40}$
+Filecoin ^(bnb1)[0-9a-z]{38}$
+Filecoin ^(0x)[0-9A-Fa-f]{40}$
+Filecoin ^(0x)[0-9A-Fa-f]{40}$
+Filecoin ^[a-z0-9]{41}$|[a-z0-9]{86}$
+Polymath ^(0x)[0-9A-Fa-f]{40}$
+StormX ^(0x)[0-9A-Fa-f]{40}$
+Render Token ^(0x)[0-9A-Fa-f]{40}$
+Balancer ^(0x)[0-9A-Fa-f]{40}$
+Balancer ^(0x)[0-9A-Fa-f]{40}$
+FIO Protocol ^(FIO)[a-z-A-Z0-9]{50}$
+Gala ^(0x)[0-9A-Fa-f]{40}$
+Gala ^(0x)[0-9A-Fa-f]{40}$
+Viberate ^(0x)[0-9A-Fa-f]{40}$
+Stafi ^(0x)[0-9A-Fa-f]{40}$
+Stafi ^(0x)[0-9A-Fa-f]{40}$
+FC Barcelona Fan Token BAR ^(0x)[0-9A-Fa-f]{40}$
+Radicle ^(0x)[0-9A-Fa-f]{40}$
+Basic Attention Token ^(bnb1)[0-9a-z]{38}$
+Basic Attention Token ^(0x)[0-9A-Fa-f]{40}$
+Basic Attention Token ^(0x)[0-9A-Fa-f]{40}$
+Verasity ^(bnb1)[0-9a-z]{38}$
+Verasity ^(0x)[0-9A-Fa-f]{40}$
+Akropolis ^(0x)[0-9A-Fa-f]{40}$
+New Zealand Dollar 
+Moonriver ^(0x)[0-9A-Fa-f]{40}$
+Monero ^[48][a-zA-Z|\d]{94}([a-zA-Z|\d]{11})?$
+1INCHDOWN 
+COTI ^(bnb1)[0-9a-z]{38}$
+COTI ^(0x)[0-9A-Fa-f]{40}$
+COTI ^(0x)[0-9A-Fa-f]{40}$
