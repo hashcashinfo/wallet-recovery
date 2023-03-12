@@ -1,5 +1,5 @@
 # Copyright (c) 2022-* Emre Korkmaz. (https://linkedin.com/in/in-).
-#
+# Requires Pycoin, (pip install pycoin).
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
 # in the Software without restriction, including without limitation the rights
@@ -38,3 +38,17 @@ for seci in secset:
     keyp=btcnet.keys.private(is_compressed=True,secret_exponent=seci)
     btccaddrset.add(keyp.address())
 #will output progress with modular option with zero third party package dependency, cross compat with py2-3
+
+# create a dogecoin address for the secret exponent int value.
+dogeaddrset=set()
+def dogefromsec(compressed,seci):
+    keyp=dogenet.keys.private(is_compressed=True,secret_exponent=seci)
+    return(keyp.address())
+    # btccaddrset.add(keyp.address())
+count=0
+for seci in secset:
+    count=count+1
+    # keyp=dogenet.keys.private(is_compressed=True,secret_exponent=seci)
+    dogeaddr = dogefromsec(True,seci)
+    dogeaddrset.add(dogeaddr)
+    print(str(count),end="\r")
