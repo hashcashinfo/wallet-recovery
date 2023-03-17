@@ -20,6 +20,7 @@ import json
 import sqlite3
 import os
 import NSKeyedUnArchiver
+import biplist
 def htpl(thedata):
     my_dict=NSKeyedUnArchiver.unserializeNSKeyedArchiver(thedata)
     return(my_dict)
@@ -32,18 +33,40 @@ def gpth(path,file):
 def exists(path):
     result=(os.path.exists(path) & os.path.isfile(path))
     return(result)
-path="itunesbackupdir"
+def copyfile(source, dest):
+    with open(source, 'rb') as source_file:
+        source_content = source_file.read()
+    with open(dest, 'wb') as dest_file:
+        dest_file.write(source_content)
+    return 'File is now copied to ' + dest
+
+path="/home/ubuntu/Desktop/Device__DecryptedBackup/BACKUP/"
 connection=sqlite3.connect(path+"Manifest.db")
 cur=connection.cursor()
 query=cur.execute("SELECT fileID,file FROM main.Files WHERE domain LIKE '%Blockchain%';")
 results=query.fetchall()
+asquery=cur.execute("SELECT fileID,relativepath FROM main.Files WHERE relativepath LIKE '%ApplicationState.db%';")
+asdb=asquery.fetchone()[0]
+asdbpath=gpth(path,asdb)
+newasdbpath=(path+'Temp_ApplicationState.db')
+print('Copying Application Start Database from:\n'+asdbpath+'\nto\t'+newasdbpath)
+print(copyfile(source=asdbpath,dest=newasdbpath))
+asdbconnection=sqlite3.connect(newasdbpath)
+asdbcur=asdbconnection.cursor()
+asdbcur.execute('SELECT value FROM "main"."kvs_debug" WHERE (application_identifier LIKE "%blockchain%")')
+values=(asdbcur.fetchall())
 for result in results:
     fileID=result[0]
     file=result[1]
     filepath=gpth(path,fileID)
     print(filepath)
     try:
-        if exists(filepath) :
+        if exists(filepath):
             print(htpath(filepath))
     except:
+        try:
+            print(biplist.readPlist(filepath))
+        except:
+            print("fail")
         continue
+# todo: document what i'm doing
