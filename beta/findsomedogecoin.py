@@ -18,13 +18,14 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
+import re
 from pycoin.symbols.btc import network as btcnet
 from pycoin.symbols.doge import network as dogenet
 from pycoin.symbols.ltc import network as ltcnet
 import requests, re
 import bit, re, os
 from wcmatch import glob
-recurse=glob.glob('/Users/work/**/*{dat,bak}', flags=glob.BRACE)
+recurse=glob.glob('/Users/work/Documents/ok/**', flags=glob.BRACE)
 print(recurse)
 addresset=set()
 for line in open('/Users/work/Desktop/blockchair_dogecoin_addresses_latest.tsv', 'r').read().split('\n'):
@@ -81,4 +82,5 @@ def findbalances(walletpath):
             print(fetchaddress(address))
 
 for wallet in recurse:
-    findbalances(wallet)
+    if os.path.isfile(wallet):
+        findbalances(wallet)
