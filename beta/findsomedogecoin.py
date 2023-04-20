@@ -31,6 +31,14 @@ addresset=set()
 for line in open('/Users/work/Desktop/blockchair_dogecoin_addresses_latest.tsv', 'r').read().split('\n'):
     addresset.add(line.split('\t')[0])
 
+def getaddr(addr,network):
+    if network=='doge':
+        return(bit.format.b58encode_check(b'\x1E' + addr[1:]))
+    if network=='btc':
+        return(bit.format.b58encode_check(b'\x00' + addr[1:]))
+    if network=='ltc':
+        return(bit.format.b58encode_check(b'\x30' + addr[1:]))
+
 def fetchaddress(address):
     return(requests.get('https://blockbook-dogecoin.binancechain.io/api/address/'+address).text)
 regexes = {
