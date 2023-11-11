@@ -1,6 +1,5 @@
 # Copyright (c) 2022-* Emre Korkmaz. 
 # You can find me on linkedin.com via this link (https://linkedin.com/in/in-).
-# If you find this useful i accept donations/recommendations feel free to reach me through linkedin.
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
 # in the Software without restriction, including without limitation the rights
