@@ -42,7 +42,11 @@ def getaddr(addr,network):
 def fetchaddress(address):
     return(requests.get('https://blockbook-dogecoin.binancechain.io/api/address/'+address).text)
 regexes = {
-'dogecoin':'^(D|A|9)[a-km-zA-HJ-NP-Z1-9]{33,34}$'}
+            'dogecoin':'^(D|A|9)[a-km-zA-HJ-NP-Z1-9]{33,34}$'
+            
+            
+            }
+
 
 regexdoge=re.compile(regexes['dogecoin'])
 
