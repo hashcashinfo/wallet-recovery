@@ -2,3 +2,4 @@ ecdsa
 pycoin
 bit
 requests
+pyqt5
