@@ -5,3 +5,4 @@ Built by Cautious developers with privacy and security in mind.
 
 Create an issue for any requests. Recover wallet files, keys and optionally check balance on an offline database. 
 
+check [wallet-recovery.py](scripts/wallet-recovery.py) for the main script. this is still in BETA don't use this script.
